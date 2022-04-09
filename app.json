@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "ninja.jelly.expo-rive"
     },
     "android": {
       "adaptiveIcon": {
